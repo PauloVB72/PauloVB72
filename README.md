@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paulo Vasquez
 - 👀 I’m interested in Astronomy, Physics and Programing 
-- 🌱 I’m currently on my first year of Master in Science mention Physics at PUCV
-- 💞️ I’m looking to collaborate on Astronomers 
+- 🌱 I have a Msc in Science mention Physics at PUCV
+- 💞️ I’m looking to collaborate with Astronomers in proyect on extragalactic 
 - 📫 How to reach me paulo.vb72@gmail.com
 
 <!---
